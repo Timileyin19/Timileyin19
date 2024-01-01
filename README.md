@@ -4,6 +4,26 @@
 
 I'm a skilled software engineer with over 2 years of professional experience, I specialize in crafting high-quality solutions using the latest technologies. My expertise lies in ReactJS and its ecosystem, React Native, and full-stack MERN stack development. Whether it's building web applications or mobile apps, I take pride in delivering robust, scalable, and user-friendly software that meets my clients' unique needs. With a passion for coding and a commitment to excellence, I am always eager to tackle new challenges and explore innovative ways to enhance the user experience.
 
+  <p align="left">
+  <a href="https://github.com/timileyin19?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/timileyin19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/timileyin19?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/timileyin19?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://www.linkedin.com/in/timileyin/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Timi Peter Linkedin" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/timmytimileyin" rel="nofollow">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Timi Peter Twitter" style="max-width: 100%;">
+  </a>
+  <a href="https://stackoverflow.com/users/11819907/timileyin-abidoun" rel="nofollow">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Timileyin Abiodun StackOverflow" style="max-width: 100%;">
+  </a>
+</p>
+
+   
+   
    <p align="left">
       <a href="https://github.com/timileyin19?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/timileyin19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
